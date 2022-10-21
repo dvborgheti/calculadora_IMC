@@ -1,8 +1,12 @@
-# calculadora_imc
+# Flutter: Calculadora de IMC
 
-A new Flutter project.
+## 📱 Projeto
 
-## Getting Started
+<img src="https://imgur.com/a/qUBhJCk" width="350" />
+
+Projeto realizado para fixar conhecimentos com Flutter e Dart. 
+
+## 📲 Getting Started
 
 This project is a starting point for a Flutter application.
 
