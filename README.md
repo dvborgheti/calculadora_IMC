@@ -1,10 +1,21 @@
-# Flutter: Calculadora de IMC
+# Flutter: Calculadora de IMC 
 
 ## 📱 Projeto
 
+Este projeto implementa uma calculadora para achar o IMC (Indice de massa Corporal)
+
+MENOR QUE 18,5	  = MAGREZA	0
+ENTRE 18,5 E 24,9 = NORMAL	0
+ENTRE 25,0 E 29,9 = SOBREPESO	I
+ENTRE 30,0 E 39,9	= OBESIDADE	II
+MAIOR QUE 40,0	  = OBESIDADE GRAVE	III
+
 <img src="https://i.imgur.com/cxuPuuO.png" width="350"/>
 
-Projeto realizado para fixar conhecimentos com Flutter e Dart. 
+## 🧑‍💻 Técnicas e Tecnologias
+
+- Dart 
+- Flutter
 
 ## 📲 Getting Started
 
