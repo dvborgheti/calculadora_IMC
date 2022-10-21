@@ -2,7 +2,7 @@
 
 ## 📱 Projeto
 
-<img src="https://imgur.com/a/qUBhJCk" width="350" />
+<img src="https://i.imgur.com/cxuPuuO.png" width="350"/>
 
 Projeto realizado para fixar conhecimentos com Flutter e Dart. 
 
